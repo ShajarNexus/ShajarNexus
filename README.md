@@ -1,105 +1,19 @@
-# 👋 Hi, I'm Shajar Abbas
+<h1 align="center">Hi 👋, I'm Shajar Abbas</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-### 🤖 AI/ML Developer | Agentic AI Enthusiast | Software Engineer
+- 🔭 I’m currently working on [MentalHealthAssessmentAgent](https://github.com/ShajarNexus/MentalHealthAssessmentAgent.git)
+improve it according to my cv okay make it better add editional expertise like  i am currently doing okay like agentic ai project 2 i completed now and remove php from it as i dont have expertise in it make it 
+- 🌱 I’m currently learning **🌱 Currently exploring Agentic AI, Generative AI, LLMs, RAG, LangChain, and LangGraph — learning by building real-world AI projects! 🚀**
 
-I'm a Software Engineering graduate from Pakistan, currently pursuing my **MS in Artificial Intelligence**.
+- 👯 I’m looking to collaborate on [MentalHealthKnowledgeAgent](https://github.com/ShajarNexus/MentalHealthKnowledgeAgent.git)
 
-I'm passionate about Artificial Intelligence, Generative AI, and building intelligent applications that solve real-world problems.
+- 💬 Ask me about **🤖 AI & Machine Learning 🧠 Generative AI & Agentic AI 🔍 Retrieval-Augmented Generation (RAG) 🐍 Python & FastAPI 📱 React Native & Mobile App Development 🗃️ MongoDB & Firebase 🎯 Data Annotation (Object Detection, Segmentation & Action Recognition) 🔗 LangChain & LangGraph 💻 Software Engineering & Problem Solving**
 
-I have professional experience in **AI Data Annotation**, including Object Detection, Image Segmentation, and Action Recognition. Currently, I'm focusing on Agentic AI, Large Language Models, RAG, and AI-powered application development.
+- ⚡ Fun fact **💡 Fun fact: I love turning complex ideas into practical AI-powered projects. I'm always curious about how things work and enjoy learning by building something new! 🚀**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🚀 What I'm Currently Doing
-
-- 🤖 Developing Agentic AI applications using Python, LangChain, and LangGraph.
-- 🧠 Exploring intelligent AI agents and multi-step workflows.
-- 🔍 Building Retrieval-Augmented Generation (RAG) applications.
-- 📚 Exploring Large Language Models (LLMs) and Generative AI.
-- 💻 Improving my backend development and AI engineering skills.
-
-## 🌱 Currently Learning
-
-`Agentic AI` · `Generative AI` · `LLMs` · `RAG` · `LangChain` · `LangGraph` · `AI Agents` · `Vector Databases` · `Prompt Engineering`
-
-## 💻 Featured Projects
-
-### 1. Mental Health Knowledge & Psychoeducation Agent
-
-An AI-powered application that provides evidence-grounded mental health education using a knowledge base, RAG, and an LLM.
-
-**Technologies:** Python, LangChain, LangGraph, Hugging Face, ChromaDB, Streamlit.
-
-[View Project →](https://github.com/ShajarNexus/MentalHealthKnowledgeAgent)
-
-### 2. Mental Health Assessment Agent
-
-An Agentic AI application designed to support structured mental health assessment workflows using AI agents.
-
-**Technologies:** Python, LangChain, LangGraph, Streamlit, and LLMs.
-
-[View Project →](https://github.com/ShajarNexus/MentalHealthAssessmentAgent)
-
----
-
-## 💬 Ask Me About
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Generative AI, Agentic AI & LLMs
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🔗 LangChain & LangGraph
-- 🐍 Python & FastAPI
-- 📱 React Native & Mobile App Development
-- 🗃️ MongoDB, Firebase & Vector Databases
-- 🎯 Data Annotation: Object Detection, Segmentation & Action Recognition
-- 💻 Software Engineering & Problem Solving
-
-## 🛠️ Languages and Tools
-
-### 💻 Programming Languages
-
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=python,java,cpp,js,html,css](https://skillicons.dev/icons?i=python,java,cpp,js,html,css)" /> \</p>
-
-### 🤖 AI / Machine Learning
-
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)" />
-\</p>
-
-### 🧠 AI Frameworks & Technologies
-
-\<p align="left">   \<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)" />   \<img src="[https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/RAG-0066CC?style=for-the-badge](https://img.shields.io/badge/RAG-0066CC?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge](https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/ChromaDB-5B4BDB?style=for-the-badge](https://img.shields.io/badge/ChromaDB-5B4BDB?style=for-the-badge)" /> \</p>
-
-### ⚙️ Backend & Databases
-
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=fastapi,django,mongodb,mysql,firebase,sqlite](https://skillicons.dev/icons?i=fastapi,django,mongodb,mysql,firebase,sqlite)" />
-\</p>
-
-### 📱 Frontend & Mobile Development
-
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma](https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma)" /> \</p>
-
-### 🔧 Development Tools
-
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux](https://skillicons.dev/icons?i=git,github,vscode,linux)" />
-\</p>
-
----
-
-## 📊 GitHub Statistics
-
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=ShajarNexus&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=ShajarNexus\&show_icons=true\&theme=tokyonight\&hide_border=true)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ShajarNexus&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=ShajarNexus\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
-
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=ShajarNexus&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=ShajarNexus\&theme=tokyonight\&hide_border=true)" /> \</p>
-
----
-
-## 🌐 Connect With Me
-
-\<p align="left">
-&#x20; \<a href="[https://github.com/ShajarNexus](https://github.com/ShajarNexus)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
