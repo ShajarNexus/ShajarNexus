@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [MentalHealthAssessmentAgent](https://github.com/ShajarNexus/MentalHealthAssessmentAgent.git)
-improve it according to my cv okay make it better add editional expertise like  i am currently doing okay like agentic ai project 2 i completed now and remove php from it as i dont have expertise in it make it 
+
 - 🌱 I’m currently learning **🌱 Currently exploring Agentic AI, Generative AI, LLMs, RAG, LangChain, and LangGraph — learning by building real-world AI projects! 🚀**
 
 - 👯 I’m looking to collaborate on [MentalHealthKnowledgeAgent](https://github.com/ShajarNexus/MentalHealthKnowledgeAgent.git)
