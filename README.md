@@ -56,29 +56,35 @@ An Agentic AI application designed to support structured mental health assessmen
 
 ## 🛠️ Languages and Tools
 
-### Programming Languages
+### 💻 Programming Languages
 
 \<p align="left">   \<img src="[https://skillicons.dev/icons?i=python,java,cpp,js,html,css](https://skillicons.dev/icons?i=python,java,cpp,js,html,css)" /> \</p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)" /> \</p>
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)" />
+\</p>
 
-### AI Frameworks & Technologies
+### 🧠 AI Frameworks & Technologies
 
 \<p align="left">   \<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)" />   \<img src="[https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/RAG-0066CC?style=for-the-badge](https://img.shields.io/badge/RAG-0066CC?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge](https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/ChromaDB-5B4BDB?style=for-the-badge](https://img.shields.io/badge/ChromaDB-5B4BDB?style=for-the-badge)" /> \</p>
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=fastapi,django,mongodb,mysql,firebase,sqlite](https://skillicons.dev/icons?i=fastapi,django,mongodb,mysql,firebase,sqlite)" /> \</p>
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=fastapi,django,mongodb,mysql,firebase,sqlite](https://skillicons.dev/icons?i=fastapi,django,mongodb,mysql,firebase,sqlite)" />
+\</p>
 
-### Frontend & Mobile Development
+### 📱 Frontend & Mobile Development
 
 \<p align="left">   \<img src="[https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma](https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma)" /> \</p>
 
-### Development Tools
+### 🔧 Development Tools
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux](https://skillicons.dev/icons?i=git,github,vscode,linux)" /> \</p>
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux](https://skillicons.dev/icons?i=git,github,vscode,linux)" />
+\</p>
 
 ---
 
@@ -92,12 +98,8 @@ An Agentic AI application designed to support structured mental health assessmen
 
 ## 🌐 Connect With Me
 
-\<p align="left">   \<a href="[https://github.com/ShajarNexus](https://github.com/ShajarNexus)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a> \</p>
-
----
-
-## ⚡ Fun Fact
-
-💡 I love turning complex ideas into practical AI-powered solutions. I enjoy experimenting with new technologies, building real-world projects, and continuously learning something new.
-
-### 🚀 Learn Continuously. Build Consistently. Innovate Intelligently.
+\<p align="left">
+&#x20; \<a href="[https://github.com/ShajarNexus](https://github.com/ShajarNexus)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+\</p>
